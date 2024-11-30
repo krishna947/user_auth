@@ -23,8 +23,8 @@ This project is a Django-based API that allows user authentication, including lo
 Clone the project repository to your local machine:
 
 ```bash
-git clone https://your-repository-url.git
-cd your-repository-folder
+git clone https://github.com/krishna947/user_auth.git
+cd user_auth
 
 # Create a virtual environment (optional)
 python -m venv myenv
