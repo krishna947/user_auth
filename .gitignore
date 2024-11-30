@@ -1,0 +1,11 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Byte-compiled and cache files
+*.pyo
+*.pyd
+*.pyc
