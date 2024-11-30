@@ -138,3 +138,12 @@ After running the Docker containers, apply the migrations inside the running con
 ```bash
 docker-compose exec web python manage.py migrate
 ```
+
+
+## Testing
+### Run Tests
+To run tests, execute the following:
+
+```bash
+python manage.py test users
+```
